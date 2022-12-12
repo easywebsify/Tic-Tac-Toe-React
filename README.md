@@ -12,7 +12,7 @@ Install the dependencies and start the server.
 npm run start
 ```
 
-[![](https://markdown-videos.deta.dev/youtube/OmBbyFmM4yY)](https://youtu.be/OmBbyFmM4yY/maxresdefault)
+[![](https://markdown-videos.deta.dev/youtube/OmBbyFmM4yY/maxresdefault)](https://youtu.be/OmBbyFmM4yY/maxresdefault)
 
 https://youtu.be/OmBbyFmM4yY
 
